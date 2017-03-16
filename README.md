@@ -5,7 +5,9 @@ Routines assembled to encode and decode SAML 2 assertions in Node.js
 
 To use these routines you first need to install the dependency:
 
-    npm install saml-encoder-decoder-js
+```
+npm install saml-encoder-decoder-js
+```
 
 ## Using the module
 
